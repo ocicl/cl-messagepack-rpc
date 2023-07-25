@@ -1,0 +1,10 @@
+* cl-messagepack-rpc
+
+ A Common Lisp implementation of the MessagePack-RPC specification 
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/adolenc/cl-messagepack-rpc.git   |
+| commit  | 8583fe1  |
+| systems | cl-messagepack-rpc |
+|---------+-------------------------------------------|
+
